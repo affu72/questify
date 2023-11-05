@@ -1,7 +1,10 @@
-import DateCounter from "./Datecounter";
+import DateCounter from "./DateCounter";
+import Header from "./Header";
 
-export default function App(){
-  return <div className="">
-    <DateCounter></DateCounter>
-  </div>
+export default function App() {
+  return (
+    <div className="bg-gray-800 h-screen">
+      <Header></Header>
+    </div>
+  );
 }
