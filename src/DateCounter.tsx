@@ -67,7 +67,7 @@ export default function DateCounter() {
       <div className="flex gap-2 items-center">
         <input
           type="range"
-          min={1}
+          min={0}
           max={10}
           className="outline-none"
           onChange={e =>
