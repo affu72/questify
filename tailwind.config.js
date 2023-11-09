@@ -6,6 +6,15 @@ export default {
       fontFamily: {
         dots: ["Codystar", "sans-serif"],
       },
+      animation: {
+        loader: "s1 1s infinite",
+      },
+
+      keyframes: {
+        s1: {
+          "0%": {transform: "rotate(-180deg)"},
+        },
+      },
     },
   },
   plugins: [],
