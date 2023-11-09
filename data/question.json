@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "What does JavaScript stand for?",
+      "options": ["Just Script", "Java Script", "Jolly Script", "JavaScript"],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": ["var", "let", "const", "variable"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the result of 10 + '20' in JavaScript?",
+      "options": ["1020", "30", "10200", "Error"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which function is used to print something in the console in JavaScript?",
+      "options": ["log", "print", "display", "show"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the output of typeof null in JavaScript?",
+      "options": ["object", "null", "undefined", "string"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which loop is used for iterating over arrays in JavaScript?",
+      "options": ["for", "while", "do...while", "foreach"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "options": [
+        "It refers to the current object",
+        "It refers to the previous object",
+        "It refers to the parent object",
+        "It refers to a specific element"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is an IIFE in JavaScript?",
+      "options": [
+        "Immediately Invoked Function Expression",
+        "Inline If-Else",
+        "Immediately Instantiated Function Expression",
+        "Internal Inline Function Expression"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which built-in method adds one or more elements to the end of an array and returns the new length?",
+      "options": ["push()", "addToEnd()", "append()", "add()"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A function that has access to its own scope, outer function's scope, and global scope",
+        "A function that only has access to its own scope",
+        "A function that can access any other function's scope",
+        "A function that can only access the global scope"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+      "options": [
+        "It enforces stricter parsing and error handling in the code",
+        "It enables the use of newer ECMAScript features",
+        "It allows for more relaxed syntax rules",
+        "It disables strict mode"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the difference between '==' and '===' operators in JavaScript?",
+      "options": [
+        "'==' performs type coercion, while '===' does not",
+        "'==' compares both value and type, while '===' only compares value",
+        "'==' only compares value, while '===' compares both value and type",
+        "'==' and '===' are functionally equivalent"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is a callback function in JavaScript?",
+      "options": [
+        "A function passed as an argument to another function, to be executed later",
+        "A function that calls another function",
+        "A function that is called automatically",
+        "A function that is executed immediately"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What is the purpose of the 'let' keyword in JavaScript?",
+      "options": [
+        "To declare block-scoped variables",
+        "To declare global variables",
+        "To declare constant variables",
+        "To declare function-scoped variables"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What does the 'new' keyword do in JavaScript?",
+      "options": [
+        "Creates an instance of an object",
+        "Deletes an object",
+        "Updates an object",
+        "Does nothing"
+      ],
+      "correctOption": 0,
+      "points": 1
+    }
+  ]
+}
